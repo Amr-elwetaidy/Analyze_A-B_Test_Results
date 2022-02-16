@@ -32,5 +32,6 @@ The company has developed a new web page in order to try and increase the number
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation script is being kept [here](Repo folder containing data processing scripts/notebooks)
+2. Raw Data is being kept [here](https://github.com/Amr-elwetaidy/Analyze_A-B_Test_Results/tree/master/Raw_data) within this repo.
+3. Project notebook is being kept [here](https://github.com/Amr-elwetaidy/Analyze_A-B_Test_Results/blob/master/Analyze_ab_test_results_notebook.ipynb)
+4. HTML version of the notebook is being kept [here](https://github.com/Amr-elwetaidy/Analyze_A-B_Test_Results/blob/master/Analyze_ab_test_results_notebook.html)
